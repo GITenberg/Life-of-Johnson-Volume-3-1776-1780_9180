@@ -1,0 +1,36 @@
+_repo: Life-of-Johnson-Volume-3-1776-1780_9180
+contributor:
+  creator:
+    editor:
+      agent_name: Hill, George Birkbeck Norman
+      alias: Hill, G. Birkbeck (George Birkbeck)
+      birthdate: 1835
+      deathdate: 1903
+      gutenberg_agent_id: '2931'
+      url: http://www.gutenberg.org/2009/agents/2931
+      wikipedia: http://en.wikipedia.org/wiki/George_Birkbeck_Norman_Hill
+creator:
+  author:
+    agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Critics -- Great Britain -- Biography'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Johnson, Samuel, 1709-1784'
+- !lcc 'PR'
+- !lcsh 'Lexicographers -- Great Britain -- Biography'
+title: "Life of Johnson, Volume 3\r\n1776-1780"
+url: http://www.gutenberg.org/ebooks/9180
